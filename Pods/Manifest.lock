@@ -1,0 +1,16 @@
+PODS:
+  - helloworld-sdk (0.1.0)
+
+DEPENDENCIES:
+  - helloworld-sdk
+
+SPEC REPOS:
+  https://github.com/jakajacky/Spec.git:
+    - helloworld-sdk
+
+SPEC CHECKSUMS:
+  helloworld-sdk: c9c2e2a1e30b9411aeab96771cc8db417d765f54
+
+PODFILE CHECKSUM: 155d62a7ee5484d43c617d74ceb607b87a74d652
+
+COCOAPODS: 1.9.3
